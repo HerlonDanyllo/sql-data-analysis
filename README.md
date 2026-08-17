@@ -24,12 +24,11 @@ sql-data-analysis/
 │
 ├── sql/
 │   ├── 01_criacao_tabelas.sql
-│   ├── 02_carga_dados.sql
-│   ├── 03_consultas_basicas.sql
-│   ├── 04_joins.sql
-│   ├── 05_agregacoes.sql
-│   ├── 06_cte.sql
-│   └── 07_ranking_produtos.sql
+│   ├── 02_consultas_basicas.sql
+│   ├── 03_joins.sql
+│   ├── 04_agregacoes.sql
+│   ├── 05_cte.sql
+│   └── 06_ranking_produtos.sql
 │
 ├── .gitignore
 └── README.md
