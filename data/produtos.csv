@@ -1,0 +1,6 @@
+id_produto,produto,categoria,preco
+101,Notebook,Eletrônicos,3500.00
+102,Mouse,Eletrônicos,80.00
+103,Cadeira,Moveis,750.00
+104,Teclado,Eletrônicos,150.00
+105,Escrivaninha,Moveis,900.00
